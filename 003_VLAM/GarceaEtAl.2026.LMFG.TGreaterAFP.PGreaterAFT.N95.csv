@@ -1,0 +1,96 @@
+RegistryCode,LMFG_Tools_CVAllRuns,LMFG_Places_New,LesionType,AdenoDummy,AstroDummy,AVMDummy,CavMalDummy,CortDisplDummy,DNETDummy,GBMDummy,GliomaDummy,GlioneuronalDummy,GliosisDummy,ICHDummy,OligoDummy,PLNTYDummy
+sub-001_ses-1_T1w_MNILesion,1.585669057,-0.467220167,Adenocarcinoma,1,0,0,0,0,0,0,0,0,0,0,0,0
+sub-003_ses-1_T1w_MNILesion,1.137520645,1.352070277,Adenocarcinoma,1,0,0,0,0,0,0,0,0,0,0,0,0
+sub-004_ses-1_T1w_MNILesion,1.036607937,2.272226324,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-010_ses-1_T1w_MNILesion,0.748530217,0.950911959,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-016_ses-1_T1w_MNILesion,1.543557161,0.564953158,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-020_ses-1_T1w_MNILesion,1.020690721,1.735680783,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-023_ses-1_T1w_MNILesion,4.288555276,-0.87372205,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-024_ses-1_T1w_MNILesion,1.245760731,-0.072840622,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-033_ses-1_T1w_MNILesion,2.257124678,3.336804694,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-037_ses-1_T1w_MNILesion,3.607969385,2.02073174,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-039_ses-1_T1w_MNILesion,3.460342109,-0.293890105,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-040_ses-1_T1w_MNILesion,1.430389524,1.113292475,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-041_ses-1_T1w_MNILesion,2.204925053,2.470337103,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-042_ses-1_T1w_MNILesion,2.115814545,1.36760953,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-047_ses-1_T1w_MNILesion,1.104217933,1.324531266,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-049_ses-1_T1w_MNILesion,0.633783247,0.693652898,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-051_ses-1_T1w_MNILesion,1.482909854,2.056837308,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-052_ses-1_T1w_MNILesion,1.009898983,0.642606156,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-053_ses-1_T1w_MNILesion,0.699692527,2.114095055,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-059_ses-1_T1w_MNILesion,2.625538552,1.816338329,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-062_ses-1_T1w_MNILesion,0.644988836,1.830755819,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-066_ses-1_T1w_MNILesion,1.62280422,3.211776323,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-070_ses-1_T1w_MNILesion,1.375468768,1.111826613,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-072_ses-1_T1w_MNILesion,1.746979595,1.135369506,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-073_ses-1_T1w_MNILesion,1.498168853,-0.121766326,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-076_ses-1_T1w_MNILesion,2.623358003,2.657899508,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-077_ses-1_T1w_MNILesion,1.655211275,1.735681325,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-083_ses-1_T1w_MNILesion,0.745743645,1.729281772,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-096_ses-1_T1w_MNILesion,0.483938755,1.389806645,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-102_ses-1_T1w_MNILesion,0.692533517,1.793704527,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-103_ses-1_T1w_MNILesion,1.206812146,1.513783157,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-104_ses-1_T1w_MNILesion,1.884806264,0.710574686,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-108_ses-1_T1w_MNILesion,0.960850726,0.512720652,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-113_ses-1_T1w_MNILesion,2.250780426,0.149003532,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
+sub-046_ses-1_T1w_MNILesion,0.755827787,1.295800386,AVM,0,0,1,0,0,0,0,0,0,0,0,0,0
+sub-067_ses-1_T1w_MNILesion,1.269582295,-0.207908275,AVM,0,0,1,0,0,0,0,0,0,0,0,0,0
+sub-075_ses-1_T1w_MNILesion,0.934497508,0.580276311,AVM,0,0,1,0,0,0,0,0,0,0,0,0,0
+sub-078_ses-1_T1w_MNILesion,1.761766806,2.778471909,AVM,0,0,1,0,0,0,0,0,0,0,0,0,0
+sub-084_ses-1_T1w_MNILesion,1.227338073,1.064171219,AVM,0,0,1,0,0,0,0,0,0,0,0,0,0
+sub-094_ses-1_T1w_MNILesion,1.575716278,1.685608272,AVM,0,0,1,0,0,0,0,0,0,0,0,0,0
+sub-100_ses-1_T1w_MNILesion,1.188245121,0.161380597,AVM,0,0,1,0,0,0,0,0,0,0,0,0,0
+sub-018_ses-1_T1w_MNILesion,1.956549523,3.710903442,Cavernous malformation,0,0,0,1,0,0,0,0,0,0,0,0,0
+sub-027_ses-1_T1w_MNILesion,1.009921086,1.99494241,Cavernous malformation,0,0,0,1,0,0,0,0,0,0,0,0,0
+sub-028_ses-1_T1w_MNILesion,0.5177074,2.102471843,Cavernous malformation,0,0,0,1,0,0,0,0,0,0,0,0,0
+sub-071_ses-1_T1w_MNILesion,0.289951361,1.484749289,Cavernous malformation,0,0,0,1,0,0,0,0,0,0,0,0,0
+sub-055_ses-1_T1w_MNILesion,0.220162294,0.307289656,Cortical dysplasia,0,0,0,0,1,0,0,0,0,0,0,0,0
+sub-081_ses-1_T1w_MNILesion,2.717597643,0.911559725,Cortical dysplasia,0,0,0,0,1,0,0,0,0,0,0,0,0
+sub-006_ses-1_T1w_MNILesion,-0.485408215,0.571799543,DNET,0,0,0,0,0,1,0,0,0,0,0,0,0
+sub-091_ses-1_T1w_MNILesion,2.604789701,3.325314991,DNET,0,0,0,0,0,1,0,0,0,0,0,0,0
+sub-012_ses-1_T1w_MNILesion,1.179041434,-1.322789573,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-013_ses-1_T1w_MNILesion,1.527272015,2.00161811,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-021_ses-1_T1w_MNILesion,2.826306445,3.000921619,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-025_ses-1_T1w_MNILesion,0.671445458,1.576677212,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-026_ses-1_T1w_MNILesion,1.625460509,2.316428809,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-036_ses-1_T1w_MNILesion,2.325182049,-0.457009831,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-038_ses-1_T1w_MNILesion,3.695809242,1.974062396,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-048_ses-1_T1w_MNILesion,0.81869637,0.613294367,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-050_ses-1_T1w_MNILesion,1.109842819,-1.032511057,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-054_ses-1_T1w_MNILesion,1.95683978,-0.455801216,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-057_ses-1_T1w_MNILesion,0.973161943,0.75098119,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-058_ses-1_T1w_MNILesion,1.228006507,1.071425806,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-068_ses-1_T1w_MNILesion,3.039508115,1.349800723,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-087_ses-1_T1w_MNILesion,0.762901775,0.406487465,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-089_ses-1_T1w_MNILesion,1.230265588,-0.198129836,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-092_ses-1_T1w_MNILesion,0.673167384,-0.73140069,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-093_ses-1_T1w_MNILesion,1.628333963,2.956477311,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-098_ses-1_T1w_MNILesion,0.936074083,0.827990031,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-105_ses-1_T1w_MNILesion,0.549054687,2.703510038,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-112_ses-1_T1w_MNILesion,1.114696001,1.767506466,GBM,0,0,0,0,0,0,1,0,0,0,0,0,0
+sub-064_ses-1_T1w_MNILesion,2.326306297,0.919937488,Glioma,0,0,0,0,0,0,0,1,0,0,0,0,0
+sub-095_ses-1_T1w_MNILesion,1.552305788,0.991550168,Glioma,0,0,0,0,0,0,0,1,0,0,0,0,0
+sub-097_ses-1_T1w_MNILesion,0.95181612,1.476254544,Glioma,0,0,0,0,0,0,0,1,0,0,0,0,0
+sub-110_ses-1_T1w_MNILesion,1.301267547,0.726518328,Glioma,0,0,0,0,0,0,0,1,0,0,0,0,0
+sub-111_ses-1_T1w_MNILesion,1.649329897,0.984546377,Glioneuronal tumor,0,0,0,0,0,0,0,0,1,0,0,0,0
+sub-060_ses-1_T1w_MNILesion,1.236624253,2.04329652,Gliosis,0,0,0,0,0,0,0,0,0,1,0,0,0
+sub-080_ses-1_T1w_MNILesion,2.65013194,2.973417258,Gliosis,0,0,0,0,0,0,0,0,0,1,0,0,0
+sub-014_ses-1_T1w_MNILesion,1.970239378,2.887370549,Intracerebral hemorrhage,0,0,0,0,0,0,0,0,0,0,1,0,0
+sub-005_ses-1_T1w_MNILesion,3.002295541,0.295435645,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-009_ses-1_T1w_MNILesion,1.208189189,2.023523325,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-017_ses-1_T1w_MNILesion,2.76649479,0.52480865,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-022_ses-1_T1w_MNILesion,1.473811021,0.992291457,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-034_ses-1_T1w_MNILesion,1.357521183,2.280404948,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-043_ses-1_T1w_MNILesion,1.160293288,-0.118150363,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-044_ses-1_T1w_MNILesion,1.606331232,2.547647695,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-061_ses-1_T1w_MNILesion,0.748937207,1.221548058,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-063_ses-1_T1w_MNILesion,0.962303773,1.44289867,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-065_ses-1_T1w_MNILesion,2.478951748,0.412232745,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-069_ses-1_T1w_MNILesion,2.693449016,0.726260922,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-079_ses-1_T1w_MNILesion,1.995284988,2.315410769,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-085_ses-1_T1w_MNILesion,1.744731206,2.503302472,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-090_ses-1_T1w_MNILesion,3.126125706,0.253964838,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-099_ses-1_T1w_MNILesion,0.655845945,3.034471135,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-101_ses-1_T1w_MNILesion,2.563823722,0.920985488,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-107_ses-1_T1w_MNILesion,2.241221717,2.865611876,Oligodendroglioma,0,0,0,0,0,0,0,0,0,0,0,1,0
+sub-109_ses-1_T1w_MNILesion,1.537340963,-0.697221047,PLNTY tumor,0,0,0,0,0,0,0,0,0,0,0,0,1
