@@ -1,4 +1,4 @@
-RegistryCode,LMFG_Tools_CVAllRuns,LMFG_Places_New,LesionType,AdenoDummy,AstroDummy,AVMDummy,CavMalDummy,CortDisplDummy,DNETDummy,GBMDummy,GliomaDummy,GlioneuronalDummy,GliosisDummy,ICHDummy,OligoDummy,PLNTYDummy
+RegistryCode,LMFG_Tools_CVAllRuns,LMFG_Places_CVAllRuns,LesionType,AdenoDummy,AstroDummy,AVMDummy,CavMalDummy,CortDisplDummy,DNETDummy,GBMDummy,GliomaDummy,GlioneuronalDummy,GliosisDummy,ICHDummy,OligoDummy,PLNTYDummy
 sub-001_ses-1_T1w_MNILesion,1.585669057,-0.467220167,Adenocarcinoma,1,0,0,0,0,0,0,0,0,0,0,0,0
 sub-003_ses-1_T1w_MNILesion,1.137520645,1.352070277,Adenocarcinoma,1,0,0,0,0,0,0,0,0,0,0,0,0
 sub-004_ses-1_T1w_MNILesion,1.036607937,2.272226324,Astrocytoma,0,1,0,0,0,0,0,0,0,0,0,0,0
