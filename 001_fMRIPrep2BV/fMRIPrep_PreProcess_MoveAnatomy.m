@@ -124,7 +124,11 @@ if Params.MoveAnat
                                         copyfile(MNIbrain.name,fullfile(Params.PathToSaveAnat,subID,sessionID),'f');
                                 end
                             elseif contains(lower(tmpexpname),'rest') == 1
-                                Params.PathToSaveAnat = fullfile(Params.HomeDirectory,['/' Params.PersonName '_' Params.ExpNames(expi).Name],'derivatives/');
+                                if isempty(Params.ExpNames(expi).FolderPath)
+                                    Params.PathToSaveAnat = fullfile(Params.HomeDirectory,['/' Params.PersonName '_' Params.ExpNames(expi).Name],'derivatives/');
+                                else
+                                    Params.PathToSaveAnat = Params.ExpNames(expi).FolderPath;
+                                end
                                 if isfolder(fullfile(Params.PathToSaveAnat,subID,sessionID,'/anat')) == 0
                                     mkdir(fullfile(Params.PathToSaveAnat,subID,sessionID,'/anat'));
                                 end
